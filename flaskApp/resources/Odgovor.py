@@ -19,7 +19,7 @@ class Odgovor():
         smtp_server = "smtp.gmail.com"
         port = 587
         sender_email = "steficefi97@gmail.com"
-        password = "Ljubovija2018"
+        password = "*************"
         context = ssl.create_default_context()
         try:
             server = smtplib.SMTP(smtp_server, port)
