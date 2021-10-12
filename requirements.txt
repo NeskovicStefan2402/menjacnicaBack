@@ -31,7 +31,7 @@ matplotlib==3.1.2
 mysql-connector==2.2.9
 mysql-connector-python==8.0.19
 numpy==1.18.1
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 parsel==1.5.2
 Pillow==7.0.0
 Protego==0.1.16
